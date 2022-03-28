@@ -15,4 +15,4 @@ async def on_ready():
     
 # 下兩行順序不可交換
 keep_alive.keep_alive()   
-client.run(os.getenv('OTU3OTExOTc3Nzk4Mjk5NjY4.YkFrDA.vk5SdIkB6NIzd5m_lgzZoFaKZIk'))
+client.run(os.getenv('token'))
